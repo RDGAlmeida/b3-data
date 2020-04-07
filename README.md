@@ -1,2 +1,2 @@
-# b3-data
-B3 investors data
+# B3 Data
+This data is a resume of B3 investors

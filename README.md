@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="./b3-investors-logo.png" height="136" width="154" alt="Relectron" />
+</p>
+
+<h3 align="center">
+  Total people and money at B3
+</h3>
+
+<br>
+
 # B3 Data
 This repository contains files in json format with historical data of natural people registered at B3.
 All data comes from [B3](http://www.b3.com.br/) and is converted to json format

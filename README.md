@@ -8,7 +8,6 @@
 
 <br>
 
-# B3 Data
 This repository contains files in json format with historical data of natural people registered at B3.
 All data comes from [B3](http://www.b3.com.br/) and is converted to json format
 ## File name structure

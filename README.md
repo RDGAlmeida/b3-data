@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./b3-investors-logo.png" height="196.5" width="127" alt="Relectron" />
+  <img src="./b3-investors-logo.png" height="127" width="196.5" alt="Relectron" />
 </p>
 
 <h3 align="center">

@@ -330,18 +330,6 @@
       "womans_money": 36924825,
       "money_total": 240167631,
       "percentage": "0,07%"
-    },
-    {
-      "order": null,
-      "state": "",
-      "region": "",
-      "mans_investors": 2000810,
-      "womans_investors": 648165,
-      "total": 2648975,
-      "mans_money": 274186907042,
-      "womans_money": 74488728806,
-      "money_total": 348675635848,
-      "percentage": ""
     }
   ]
 }

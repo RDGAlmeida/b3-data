@@ -9,7 +9,7 @@
 <br>
 
 This repository contains files in json format with historical data of natural people registered at B3.
-All data comes from [B3](http://www.b3.com.br/) and is converted to json format. This data is current used in [ValorMaior](https://valormaior.now.sh/)
+All data comes from [B3](http://www.b3.com.br/) and is converted to json format. This data is current used in [ValorMaior](https://valormaior.com/)
 ## File name structure
 The file names follow the pattern: **YYYYMMDD-b3-investors**
 ## Data structure

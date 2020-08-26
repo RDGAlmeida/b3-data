@@ -342,7 +342,7 @@
       "mans_money": 1574728085,
       "womans_money": 210397555,
       "money_total": 1785125640,
-      "percentage": "116,97%"
+      "percentage": "0,47%"
     },
     {
       "order": 2,
@@ -353,7 +353,7 @@
       "mans_money": 2864575907,
       "womans_money": 995666347,
       "money_total": 3860242254,
-      "percentage": "252,94%"
+      "percentage": "1,01%"
     },
     {
       "order": 3,
@@ -364,7 +364,7 @@
       "mans_money": 24396207712,
       "womans_money": 6358450425,
       "money_total": 30754658137,
-      "percentage": "2015,21%"
+      "percentage": "8,05%"
     },
     {
       "order": 4,
@@ -375,7 +375,7 @@
       "mans_money": 53684382886,
       "womans_money": 11354129878,
       "money_total": 65038512764,
-      "percentage": "4261,67%"
+      "percentage": "17,02%"
     },
     {
       "order": 5,
@@ -386,7 +386,7 @@
       "mans_money": 53001860433,
       "womans_money": 14723550874,
       "money_total": 67725411307,
-      "percentage": "4437,73%"
+      "percentage": "17,73%"
     },
     {
       "order": 6,
@@ -397,7 +397,7 @@
       "mans_money": 63895339423,
       "womans_money": 17785460658,
       "money_total": 81680800081,
-      "percentage": "5352,17%"
+      "percentage": "21,38%"
     },
     {
       "order": 7,
@@ -408,7 +408,161 @@
       "mans_money": 101769896592,
       "womans_money": 29414345618,
       "money_total": 131184242210,
-      "percentage": "8595,90%"
+      "percentage": "34,34%"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2002,
+      "mans_investors": 70219,
+      "mans_percentage": "82,37%",
+      "womans_investors": 15030,
+      "womans_percentage": "17,63%",
+      "total_investors": 85249
+    },
+    {
+      "year": 2003,
+      "mans_investors": 69753,
+      "mans_percentage": "81,60%",
+      "womans_investors": 15725,
+      "womans_percentage": "18,40%",
+      "total_investors": 85478
+    },
+    {
+      "year": 2004,
+      "mans_investors": 94434,
+      "mans_percentage": "80,77%",
+      "womans_investors": 22480,
+      "womans_percentage": "19,23%",
+      "total_investors": 116914
+    },
+    {
+      "year": 2005,
+      "mans_investors": 122220,
+      "mans_percentage": "78,76%",
+      "womans_investors": 32963,
+      "womans_percentage": "21,24%",
+      "total_investors": 155183
+    },
+    {
+      "year": 2006,
+      "mans_investors": 171717,
+      "mans_percentage": "78,18%",
+      "womans_investors": 47917,
+      "womans_percentage": "21,82%",
+      "total_investors": 219634
+    },
+    {
+      "year": 2007,
+      "mans_investors": 344171,
+      "mans_percentage": "75,38%",
+      "womans_investors": 112386,
+      "womans_percentage": "24,62%",
+      "total_investors": 456557
+    },
+    {
+      "year": 2008,
+      "mans_investors": 411098,
+      "mans_percentage": "76,63%",
+      "womans_investors": 125385,
+      "womans_percentage": "23,37%",
+      "total_investors": 536483
+    },
+    {
+      "year": 2009,
+      "mans_investors": 416302,
+      "mans_percentage": "75,37%",
+      "womans_investors": 136062,
+      "womans_percentage": "24,63%",
+      "total_investors": 552364
+    },
+    {
+      "year": 2010,
+      "mans_investors": 459644,
+      "mans_percentage": "75,24%",
+      "womans_investors": 151271,
+      "womans_percentage": "24,76%",
+      "total_investors": 610915
+    },
+    {
+      "year": 2011,
+      "mans_investors": 437287,
+      "mans_percentage": "74,98%",
+      "womans_investors": 145915,
+      "womans_percentage": "25,02%",
+      "total_investors": 583202
+    },
+    {
+      "year": 2012,
+      "mans_investors": 438601,
+      "mans_percentage": "74,70%",
+      "womans_investors": 148564,
+      "womans_percentage": "25,30%",
+      "total_investors": 587165
+    },
+    {
+      "year": 2013,
+      "mans_investors": 440727,
+      "mans_percentage": "74,79%",
+      "womans_investors": 148549,
+      "womans_percentage": "25,21%",
+      "total_investors": 589276
+    },
+    {
+      "year": 2014,
+      "mans_investors": 426322,
+      "mans_percentage": "75,57%",
+      "womans_investors": 137794,
+      "womans_percentage": "24,43%",
+      "total_investors": 564116
+    },
+    {
+      "year": 2015,
+      "mans_investors": 424682,
+      "mans_percentage": "76,23%",
+      "womans_investors": 132427,
+      "womans_percentage": "23,77%",
+      "total_investors": 557109
+    },
+    {
+      "year": 2016,
+      "mans_investors": 433759,
+      "mans_percentage": "76,90%",
+      "womans_investors": 130265,
+      "womans_percentage": "23,10%",
+      "total_investors": 564024
+    },
+    {
+      "year": 2017,
+      "mans_investors": 477887,
+      "mans_percentage": "77,13%",
+      "womans_investors": 141738,
+      "womans_percentage": "22,87%",
+      "total_investors": 619625
+    },
+    {
+      "year": 2018,
+      "mans_investors": 633899,
+      "mans_percentage": "77,94%",
+      "womans_investors": 179392,
+      "womans_percentage": "22,06%",
+      "total_investors": 813291
+    },
+    {
+      "year": 2019,
+      "mans_investors": 1292536,
+      "mans_percentage": "76,89%",
+      "womans_investors": 388497,
+      "womans_percentage": "23,11%",
+      "total_investors": 1681033
+    },
+    {
+      "year": 2020,
+      "mans_investors": 2123647,
+      "mans_percentage": "75,19%",
+      "womans_investors": 700592,
+      "womans_percentage": "24,81%",
+      "total_investors": 2824239
     }
   ]
 }

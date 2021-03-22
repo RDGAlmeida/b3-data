@@ -1,0 +1,576 @@
+{
+  "date": "2021-03-03",
+  "mans_investors_total": 2540224,
+  "womans_investors_total": 924093,
+  "all_investors_total": 3464317,
+  "mans_money_total": 352490000000,
+  "womans_money_total": 96040000000,
+  "all_money_total": 448520000000,
+  "investors": [
+    {
+      "order": 1,
+      "state": "SP",
+      "region": "Sudeste",
+      "mans_investors": 965123,
+      "womans_investors": 369253,
+      "total": 1334376,
+      "mans_money": 165190000000,
+      "womans_money": 47590000000,
+      "money_total": 212780000000,
+      "percentage": "47,44%"
+    },
+    {
+      "order": 2,
+      "state": "RJ",
+      "region": "Sudeste",
+      "mans_investors": 262779,
+      "womans_investors": 101556,
+      "total": 364335,
+      "mans_money": 51300000000,
+      "womans_money": 17220000000,
+      "money_total": 68510000000,
+      "percentage": "15,27%"
+    },
+    {
+      "order": 3,
+      "state": "MG",
+      "region": "Sudeste",
+      "mans_investors": 254179,
+      "womans_investors": 89439,
+      "total": 343618,
+      "mans_money": 36050000000,
+      "womans_money": 6120000000,
+      "money_total": 42170000000,
+      "percentage": "9,40%"
+    },
+    {
+      "order": 4,
+      "state": "RS",
+      "region": "Sul",
+      "mans_investors": 146203,
+      "womans_investors": 47637,
+      "total": 193840,
+      "mans_money": 18610000000,
+      "womans_money": 6020000000,
+      "money_total": 24620000000,
+      "percentage": "5,49%"
+    },
+    {
+      "order": 5,
+      "state": "PR",
+      "region": "Sul",
+      "mans_investors": 163908,
+      "womans_investors": 54754,
+      "total": 218662,
+      "mans_money": 16770000000,
+      "womans_money": 4130000000,
+      "money_total": 20910000000,
+      "percentage": "4,66%"
+    },
+    {
+      "order": 6,
+      "state": "SC",
+      "region": "Sul",
+      "mans_investors": 127625,
+      "womans_investors": 40874,
+      "total": 168499,
+      "mans_money": 13660000000,
+      "womans_money": 3600000000,
+      "money_total": 17260000000,
+      "percentage": "3,85%"
+    },
+    {
+      "order": 7,
+      "state": "DF",
+      "region": "Centro-oeste",
+      "mans_investors": 82696,
+      "womans_investors": 33574,
+      "total": 116270,
+      "mans_money": 9230000000,
+      "womans_money": 2000000000,
+      "money_total": 11230000000,
+      "percentage": "2,50%"
+    },
+    {
+      "order": 8,
+      "state": "BA",
+      "region": "Nordeste",
+      "mans_investors": 82173,
+      "womans_investors": 30346,
+      "total": 112519,
+      "mans_money": 7770000000,
+      "womans_money": 1840000000,
+      "money_total": 9610000000,
+      "percentage": "2,14%"
+    },
+    {
+      "order": 9,
+      "state": "CE",
+      "region": "Nordeste",
+      "mans_investors": 50499,
+      "womans_investors": 16918,
+      "total": 67417,
+      "mans_money": 5440000000,
+      "womans_money": 1150000000,
+      "money_total": 6590000000,
+      "percentage": "1,47%"
+    },
+    {
+      "order": 10,
+      "state": "PE",
+      "region": "Nordeste",
+      "mans_investors": 58701,
+      "womans_investors": 20345,
+      "total": 79046,
+      "mans_money": 4650000000,
+      "womans_money": 1250000000,
+      "money_total": 5890000000,
+      "percentage": "1,31%"
+    },
+    {
+      "order": 11,
+      "state": "ES",
+      "region": "Sudeste",
+      "mans_investors": 53185,
+      "womans_investors": 17680,
+      "total": 70865,
+      "mans_money": 4880000000,
+      "womans_money": 950000000,
+      "money_total": 5830000000,
+      "percentage": "1,30%"
+    },
+    {
+      "order": 12,
+      "state": "GO",
+      "region": "Centro-oeste",
+      "mans_investors": 61645,
+      "womans_investors": 21741,
+      "total": 83386,
+      "mans_money": 3940000000,
+      "womans_money": 890000000,
+      "money_total": 4830000000,
+      "percentage": "1,08%"
+    },
+    {
+      "order": 13,
+      "state": "MA",
+      "region": "Nordeste",
+      "mans_investors": 19461,
+      "womans_investors": 6773,
+      "total": 26234,
+      "mans_money": 1890000000,
+      "womans_money": 650000000,
+      "money_total": 2540000000,
+      "percentage": "0,57%"
+    },
+    {
+      "order": 14,
+      "state": "MS",
+      "region": "Centro-oeste",
+      "mans_investors": 24862,
+      "womans_investors": 8167,
+      "total": 33029,
+      "mans_money": 1980000000,
+      "womans_money": 290000000,
+      "money_total": 2270000000,
+      "percentage": "0,51%"
+    },
+    {
+      "order": 15,
+      "state": "MT",
+      "region": "Centro-oeste",
+      "mans_investors": 27951,
+      "womans_investors": 9631,
+      "total": 37582,
+      "mans_money": 1810000000,
+      "womans_money": 350000000,
+      "money_total": 2160000000,
+      "percentage": "0,48%"
+    },
+    {
+      "order": 16,
+      "state": "PA",
+      "region": "Norte",
+      "mans_investors": 27031,
+      "womans_investors": 9982,
+      "total": 37013,
+      "mans_money": 1710000000,
+      "womans_money": 380000000,
+      "money_total": 2090000000,
+      "percentage": "0,47%"
+    },
+    {
+      "order": 17,
+      "state": "RN",
+      "region": "Nordeste",
+      "mans_investors": 23314,
+      "womans_investors": 7369,
+      "total": 30683,
+      "mans_money": 1530000000,
+      "womans_money": 310000000,
+      "money_total": 1840000000,
+      "percentage": "0,41%"
+    },
+    {
+      "order": 18,
+      "state": "PB",
+      "region": "Nordeste",
+      "mans_investors": 22711,
+      "womans_investors": 7618,
+      "total": 30329,
+      "mans_money": 1290000000,
+      "womans_money": 310000000,
+      "money_total": 1600000000,
+      "percentage": "0,36%"
+    },
+    {
+      "order": 19,
+      "state": "AM",
+      "region": "Norte",
+      "mans_investors": 17865,
+      "womans_investors": 6689,
+      "total": 24554,
+      "mans_money": 1200000000,
+      "womans_money": 240000000,
+      "money_total": 1440000000,
+      "percentage": "0,32%"
+    },
+    {
+      "order": 20,
+      "state": "SE",
+      "region": "Nordeste",
+      "mans_investors": 13925,
+      "womans_investors": 4657,
+      "total": 18582,
+      "mans_money": 840000000,
+      "womans_money": 180000000,
+      "money_total": 1020000000,
+      "percentage": "0,23%"
+    },
+    {
+      "order": 21,
+      "state": "AL",
+      "region": "Nordeste",
+      "mans_investors": 14198,
+      "womans_investors": 4651,
+      "total": 18849,
+      "mans_money": 780000000,
+      "womans_money": 160000000,
+      "money_total": 940000000,
+      "percentage": "0,21%"
+    },
+    {
+      "order": 22,
+      "state": "PI",
+      "region": "Nordeste",
+      "mans_investors": 11981,
+      "womans_investors": 4047,
+      "total": 16028,
+      "mans_money": 670000000,
+      "womans_money": 120000000,
+      "money_total": 790000000,
+      "percentage": "0,18%"
+    },
+    {
+      "order": 23,
+      "state": "RO",
+      "region": "Norte",
+      "mans_investors": 11217,
+      "womans_investors": 4088,
+      "total": 15305,
+      "mans_money": 540000000,
+      "womans_money": 150000000,
+      "money_total": 700000000,
+      "percentage": "0,16%"
+    },
+    {
+      "order": 24,
+      "state": "TO",
+      "region": "Norte",
+      "mans_investors": 7874,
+      "womans_investors": 2864,
+      "total": 10738,
+      "mans_money": 330000000,
+      "womans_money": 60000000,
+      "money_total": 390000000,
+      "percentage": "0,09%"
+    },
+    {
+      "order": 25,
+      "state": "AC",
+      "region": "Norte",
+      "mans_investors": 3465,
+      "womans_investors": 1269,
+      "total": 4734,
+      "mans_money": 180000000,
+      "womans_money": 40000000,
+      "money_total": 220000000,
+      "percentage": "0,05%"
+    },
+    {
+      "order": 26,
+      "state": "RR",
+      "region": "Norte",
+      "mans_investors": 2911,
+      "womans_investors": 1092,
+      "total": 4003,
+      "mans_money": 140000000,
+      "womans_money": 20000000,
+      "money_total": 160000000,
+      "percentage": "0,04%"
+    },
+    {
+      "order": 27,
+      "state": "AP",
+      "region": "Norte",
+      "mans_investors": 2742,
+      "womans_investors": 1079,
+      "total": 3821,
+      "mans_money": 110000000,
+      "womans_money": 20000000,
+      "money_total": 130000000,
+      "percentage": "0,03%"
+    }
+  ],
+  "ages_range": [
+    {
+      "order": 1,
+      "age_range": "Até 15 anos",
+      "mans_investors": 8453,
+      "womans_investors": 6785,
+      "total": 15238,
+      "mans_money": 310000000,
+      "womans_money": 260000000,
+      "money_total": 570000000,
+      "percentage": "0,13%"
+    },
+    {
+      "order": 2,
+      "age_range": "De 16 a 25 anos",
+      "mans_investors": 295860,
+      "womans_investors": 88749,
+      "total": 384609,
+      "mans_money": 3120000000,
+      "womans_money": 1190000000,
+      "money_total": 4310000000,
+      "percentage": "0,96%"
+    },
+    {
+      "order": 3,
+      "age_range": "De 26 a 35 anos",
+      "mans_investors": 832553,
+      "womans_investors": 299262,
+      "total": 1131815,
+      "mans_money": 27640000000,
+      "womans_money": 7250000000,
+      "money_total": 34890000000,
+      "percentage": "7,78%"
+    },
+    {
+      "order": 4,
+      "age_range": "De 36 a 45 anos",
+      "mans_investors": 726937,
+      "womans_investors": 241809,
+      "total": 968746,
+      "mans_money": 64790000000,
+      "womans_money": 14170000000,
+      "money_total": 78960000000,
+      "percentage": "17,60%"
+    },
+    {
+      "order": 5,
+      "age_range": "De 46 a 55 anos",
+      "mans_investors": 318702,
+      "womans_investors": 121608,
+      "total": 440310,
+      "mans_money": 66840000000,
+      "womans_money": 16990000000,
+      "money_total": 83830000000,
+      "percentage": "18,69%"
+    },
+    {
+      "order": 6,
+      "age_range": "De 56 a 65 anos",
+      "mans_investors": 203358,
+      "womans_investors": 94846,
+      "total": 298204,
+      "mans_money": 71240000000,
+      "womans_money": 21820000000,
+      "money_total": 93060000000,
+      "percentage": "20,75%"
+    },
+    {
+      "order": 7,
+      "age_range": "Maior de 66 anos",
+      "mans_investors": 154361,
+      "womans_investors": 71034,
+      "total": 225395,
+      "mans_money": 118540000000,
+      "womans_money": 34360000000,
+      "money_total": 152900000000,
+      "percentage": "34,09%"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2002,
+      "mans_investors": 70219,
+      "mans_percentage": "82,37%",
+      "womans_investors": 15030,
+      "womans_percentage": "17,63%",
+      "total_investors": 85249
+    },
+    {
+      "year": 2003,
+      "mans_investors": 69753,
+      "mans_percentage": "81,60%",
+      "womans_investors": 15725,
+      "womans_percentage": "18,40%",
+      "total_investors": 85478
+    },
+    {
+      "year": 2004,
+      "mans_investors": 94434,
+      "mans_percentage": "80,77%",
+      "womans_investors": 22480,
+      "womans_percentage": "19,23%",
+      "total_investors": 116914
+    },
+    {
+      "year": 2005,
+      "mans_investors": 122220,
+      "mans_percentage": "78,76%",
+      "womans_investors": 32963,
+      "womans_percentage": "21,24%",
+      "total_investors": 155183
+    },
+    {
+      "year": 2006,
+      "mans_investors": 171717,
+      "mans_percentage": "78,18%",
+      "womans_investors": 47917,
+      "womans_percentage": "21,82%",
+      "total_investors": 219634
+    },
+    {
+      "year": 2007,
+      "mans_investors": 344171,
+      "mans_percentage": "75,38%",
+      "womans_investors": 112386,
+      "womans_percentage": "24,62%",
+      "total_investors": 456557
+    },
+    {
+      "year": 2008,
+      "mans_investors": 411098,
+      "mans_percentage": "76,63%",
+      "womans_investors": 125385,
+      "womans_percentage": "23,37%",
+      "total_investors": 536483
+    },
+    {
+      "year": 2009,
+      "mans_investors": 416302,
+      "mans_percentage": "75,37%",
+      "womans_investors": 136062,
+      "womans_percentage": "24,63%",
+      "total_investors": 552364
+    },
+    {
+      "year": 2010,
+      "mans_investors": 459644,
+      "mans_percentage": "75,24%",
+      "womans_investors": 151271,
+      "womans_percentage": "24,76%",
+      "total_investors": 610915
+    },
+    {
+      "year": 2011,
+      "mans_investors": 437287,
+      "mans_percentage": "74,98%",
+      "womans_investors": 145915,
+      "womans_percentage": "25,02%",
+      "total_investors": 583202
+    },
+    {
+      "year": 2012,
+      "mans_investors": 438601,
+      "mans_percentage": "74,70%",
+      "womans_investors": 148564,
+      "womans_percentage": "25,30%",
+      "total_investors": 587165
+    },
+    {
+      "year": 2013,
+      "mans_investors": 440727,
+      "mans_percentage": "74,79%",
+      "womans_investors": 148549,
+      "womans_percentage": "25,21%",
+      "total_investors": 589276
+    },
+    {
+      "year": 2014,
+      "mans_investors": 426322,
+      "mans_percentage": "75,57%",
+      "womans_investors": 137794,
+      "womans_percentage": "24,43%",
+      "total_investors": 564116
+    },
+    {
+      "year": 2015,
+      "mans_investors": 424682,
+      "mans_percentage": "76,23%",
+      "womans_investors": 132427,
+      "womans_percentage": "23,77%",
+      "total_investors": 557109
+    },
+    {
+      "year": 2016,
+      "mans_investors": 433759,
+      "mans_percentage": "76,90%",
+      "womans_investors": 130265,
+      "womans_percentage": "23,10%",
+      "total_investors": 564024
+    },
+    {
+      "year": 2017,
+      "mans_investors": 477887,
+      "mans_percentage": "77,13%",
+      "womans_investors": 141738,
+      "womans_percentage": "22,87%",
+      "total_investors": 619625
+    },
+    {
+      "year": 2018,
+      "mans_investors": 633899,
+      "mans_percentage": "77,94%",
+      "womans_investors": 179392,
+      "womans_percentage": "22,06%",
+      "total_investors": 813291
+    },
+    {
+      "year": 2019,
+      "mans_investors": 1292536,
+      "mans_percentage": "76,89%",
+      "womans_investors": 388497,
+      "womans_percentage": "23,11%",
+      "total_investors": 1681033
+    },
+    {
+      "year": 2020,
+      "mans_investors": 2382049,
+      "mans_percentage": "73,76%",
+      "womans_investors": 847269,
+      "womans_percentage": "26,24%",
+      "total_investors": 3229318
+    },
+    {
+      "year": 2021,
+      "mans_investors": 2540224,
+      "mans_percentage": "73,33%",
+      "womans_investors": 924093,
+      "womans_percentage": "26,67%",
+      "total_investors": 3464317
+    }
+  ]
+}
